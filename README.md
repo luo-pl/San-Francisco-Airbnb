@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/85826239/197128277-1650bf36-4c70-4ec2-9727-601ef3149cd3.png)
 
-# San-Francisco-Airbnb
+# San Francisco Airbnb
 How can Airbnb outearn tranditional renting?
 
 Set in San Francisco city, this project is targeted at real estate investors who might be wondering if listing their properties with Airbnb would earn more than renting to a long-term renter.
